@@ -9,4 +9,4 @@ I'm a Full Stack Developer!!
 ⚡ Fun fact: I love to draw and play guitar / drums
 Spotify Playing 🎧
 
-
+[![Yamuna's github stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d)](https://github.com/yamuna1996d/github-readme-stats)
