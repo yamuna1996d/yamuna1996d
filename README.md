@@ -9,7 +9,7 @@ Skills: Flutter/ REACT / JS / HTML / CSS
 
 <a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
-&nbsp; Hit a star<br><a href="https://github.com/yamuna1996d/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></d> |
+&nbsp;&nbsp;&nbsp;&nbsp; Hit a star &nbsp;&nbsp; <a href="https://github.com/yamuna1996d/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></d> |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
