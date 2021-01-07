@@ -7,9 +7,9 @@ Skills: Flutter/ REACT / JS / HTML / CSS
 - 🌱 I’m currently learning React Js 
 - 📫 How to reach me: yamunag19@gmail.com  
 
-<div><a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
+<a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
-&nbsp;  | <br><br>Hit a star<br><a href="https://github.com/harshalrj25/harshalrj25"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>  |
+&nbsp;  | <br><br>Hit a star<br><a href="https://github.com/yamuna1996d/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></d |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
