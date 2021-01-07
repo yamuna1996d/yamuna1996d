@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**yamuna1996d/yamuna1996d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Yamuna 👋
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2020 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love to draw and play guitar / drums
+Spotify Playing 🎧
+codeSTACKr Spotify Playing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+codeSTACKr.comcodeSTACKr | YouTubecodeSTACKr | TwittercodeSTACKr | LinkedIncodeSTACKr | Instagram
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
+
