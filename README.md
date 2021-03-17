@@ -2,7 +2,7 @@
 #### I am a Full Stack Developer..
 
 
-- 🔭 I’m currently working on Spotify Clone 
+- 🔭 I’m currently working in Zewia 
 - 🌱 I’m currently learning React Js 
 - 📫 How to reach me: <a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
