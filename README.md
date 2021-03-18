@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d&show_icons=true)  
-
+![Profile views](https://gpvc.arturio.dev/yamuna1996d) 
  
 
 ### Languages and Tools:
