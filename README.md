@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yamuna
-#### I am a Full Stack Developer..
+#### I am a Full Stack Developer...
 
 
 - 🔭 I’m currently working in Zewia 
