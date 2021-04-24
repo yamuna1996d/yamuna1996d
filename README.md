@@ -1,20 +1,18 @@
 ### Hi there 👋, my name is Yamuna
 #### I am a Full Stack Developer...
 
-
 - 🔭 I’m currently working in Zebracross India Technologies 
 - 🌱 I’m currently learning React Js 
+- 🥅 2021 Goals: Contribute more to flutter projects and grasp UX/UI designing.
 - 📫 How to reach me: <a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Hit a star <a href="https://github.com/yamuna1996d/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a> 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d&show_icons=true)  
 ![Profile views](https://gpvc.arturio.dev/yamuna1996d) 
  
-
 ### Languages and Tools:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
