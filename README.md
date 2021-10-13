@@ -17,7 +17,7 @@ I'm a Software Engineer who loves building mobile and backend services & learnin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d&show_icons=true&hide_border=true&theme=react&count_private=true&cache_seconds=1800)  
  
 ### Languages and Tools:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
