@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Yamuna G!](https://yamunag.netlify.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=RegNex&label=Views&color=blue&style=plastic" alt="Image" /> </a>
+## Hey, I'm [Yamuna G!](https://yamunag.netlify.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=yamuna1996d&label=Views&color=blue&style=plastic" alt="Image" /> </a>
 
 I'm a Software Engineer who loves building mobile and backend services & learning new Technologies.
 <br/>
@@ -17,8 +17,6 @@ I'm a Software Engineer who loves building mobile and backend services & learnin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamuna1996d&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/yamuna1996d) 
  
 ### Languages and Tools:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
