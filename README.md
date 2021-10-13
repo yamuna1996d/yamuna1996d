@@ -1,5 +1,11 @@
-### Hi there 👋, my name is Yamuna
-#### I am a Full Stack Developer...
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+
+## Hey, I'm [Yamuna G!](https://yamunag.netlify.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=RegNex&label=Views&color=blue&style=plastic" alt="Image" /> </a>
+
+I'm a Software Engineer who loves building mobile and backend services & learning new Technologies.
+<br/>
+<br/>
+
 
 - 🔭 I’m currently working in Zebracross India Technologies 
 - 🌱 I’m currently learning UX Designing
