@@ -12,6 +12,7 @@ I'm a Software Engineer who loves building mobile and backend services & learnin
 - 🥅 2021 Goals: Contribute more to flutter projects and grasp UX/UI designing.
 - 📫 How to reach me: <a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Hit a star <a href="https://github.com/yamuna1996d/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamuna1996d)](https://github.com/anuraghazra/github-readme-stats)
