@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Yamuna G!](https://yamunag.netlify.app/) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=yamuna1996d&label=Views&color=blue&style=plastic" alt="Image" /> </a>
 
-I'm a Software Engineer who loves building mobile and backend services & learning new Technologies.
+I'm a Software Developer who loves building mobile and backend services & learning new Technologies.
 <br/>
 <br/>
 
