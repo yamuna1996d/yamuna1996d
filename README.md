@@ -9,7 +9,13 @@ I'm a Software Developer who loves building mobile and backend services & learni
 
 - 🔭 I’m currently working in UVJ Technologies
 - 🌱 I’m currently learning UX Designing
-- 🥅 2024 Goals: Contribute more to flutter projects and grasp UX/UI designing.
+- 🥅 Career Goals: My career goal is to continuously grow as a mobile application developer while expanding my expertise into emerging technologies. With my experience in Flutter, I aim to build scalable, high-performance applications that deliver real value to users.
+
+In the near future, I am particularly interested in exploring AI and Machine Learning integration in mobile applications. I want to learn how to incorporate intelligent features such as personalization, predictive analytics, and automation into apps to enhance user experience.
+
+I also plan to deepen my understanding of system design, performance optimization, and cross-platform architecture, so I can contribute to building more robust and efficient solutions.
+
+Long term, I aspire to take on roles where I can not only develop advanced applications but also contribute to technical decision-making, mentor others, and stay aligned with evolving technologies in the mobile and AI space.
 - 📫 How to reach me: <a href="mailto:yamunag19@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yamuna-g-978088180/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
 <br>
